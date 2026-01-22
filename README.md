@@ -1,1 +1,1 @@
-🌐 **Portfolio:** https://PranavDeshmukh10.github.io/portfolio/
+🌐 **Portfolio:** https://pranavdeshmukh10.github.io/portfolio/
