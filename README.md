@@ -1,2 +1,1 @@
-# my_portfolio
-This repo contains my portfolio.
+🌐 **Portfolio:** https://PranavDeshmukh10.github.io/portfolio/
